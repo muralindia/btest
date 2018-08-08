@@ -8,3 +8,5 @@ Sixth line.
 This is master readme!
 Third line entered.
 
+New line of code.
+
